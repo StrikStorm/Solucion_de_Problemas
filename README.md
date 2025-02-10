@@ -18,6 +18,6 @@ La base de datos cuenta con la siguiente información:
 
   Esto se desarollara en el siguente NoteBook:
 
-  - [NoteBook](./)
-  - [Reporte en HTML](./)
-  - [Base de Datos](./)
+  - [NoteBook](./solucion_de_problemas.ipynb)
+  - [Reporte en HTML](./solucion_de_problemas.html)
+  - [Base de Datos](./Calificaciones.csv)
